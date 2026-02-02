@@ -1,6 +1,10 @@
 # MMInjector
 Manual Map Injector
 
+サスペンド状態で起動し、dllをメモリに展開します。
+
+管理者権限が必要で、ターゲットが開かれてない状態にする必要があります。
+
 ## settings.json
 dllName: dllファイルが必ず同じフォルダに入ってることを確認してください
 
