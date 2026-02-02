@@ -1,5 +1,5 @@
 # MMInjector
-Manual Map Injector
+x64 Manual Map Injector
 
 サスペンド状態で起動し、dllをメモリに展開します。
 
