@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MMInjector.vcxproj" Id="ba6325bc-53fb-458f-9a6b-32f78f82f326">
+    <Build Solution="*|x86" Project="false" />
+  </Project>
+</Solution>
